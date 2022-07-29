@@ -11,6 +11,9 @@ var line;
 
 // Prueba de git
 // Hola
+// Mi nombre es
+
+
 function preload(){
   ant_running = loadAnimation("hormiga1.png","hormiga2.png","hormiga3.png")
   spider_running = loadAnimation("araña1.png","araña2.png","araña3.png")
