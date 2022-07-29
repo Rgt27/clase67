@@ -9,7 +9,8 @@ var wall1, wall2, wall3, wall4;
 
 var line;
 
-
+// Prueba de git
+// Hola
 function preload(){
   ant_running = loadAnimation("hormiga1.png","hormiga2.png","hormiga3.png")
   spider_running = loadAnimation("araña1.png","araña2.png","araña3.png")
